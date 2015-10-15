@@ -1,0 +1,11 @@
+﻿<Window x:Class="省市县联动查询案例.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid Loaded="Grid_Loaded">
+        <ListBox DisplayMemberPath="AreaName" HorizontalAlignment="Left" Height="315" Margin="55,42,0,0" VerticalAlignment="Top" Width="163" x:Name="lbProv" SelectionChanged="listProv_SelectionChanged"/>
+        <ListBox DisplayMemberPath="AreaName" x:Name="lbCity" HorizontalAlignment="Left" Height="315" Margin="302,42,0,0" VerticalAlignment="Top" Width="163" SelectionChanged="lbCity_SelectionChanged"/>
+        <ListBox x:Name="lbCountry" DisplayMemberPath="AreaName" HorizontalAlignment="Left" Height="315" Margin="576,42,0,0" VerticalAlignment="Top" Width="163"/>
+
+    </Grid>
+</Window>

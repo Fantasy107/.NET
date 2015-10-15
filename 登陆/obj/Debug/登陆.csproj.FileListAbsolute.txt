@@ -1,0 +1,13 @@
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\bin\Debug\登陆.exe.config
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\obj\Debug\登陆.csprojResolveAssemblyReference.cache
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\obj\Debug\MainWindow.baml
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\obj\Debug\MainWindow.g.cs
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\obj\Debug\App.g.cs
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\obj\Debug\登陆_MarkupCompile.cache
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\obj\Debug\登陆.g.resources
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\obj\Debug\登陆.Properties.Resources.resources
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\obj\Debug\登陆.csproj.GenerateResource.Cache
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\bin\Debug\登陆.exe
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\bin\Debug\登陆.pdb
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\obj\Debug\登陆.exe
+e:\文件\visual studio 2013\Projects\ADO.NET案例\登陆\obj\Debug\登陆.pdb
